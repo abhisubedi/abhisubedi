@@ -1,22 +1,36 @@
 <h1 align="center">Hi 👋, I'm Abhi Subedi</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">E-Commerce Program Manager · MarTech Developer · Technical Program Delivery</h3>
 
-- 📫 How to reach me **abhiisubedi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abhiisubedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhiisubedi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhi-subedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhi-subedi" height="30" width="40" /></a>
-<a href="https://instagram.com/abhiisubedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhiisubedi" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://abhikumarsubedi.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/abhi-subedi/">LinkedIn</a> ·
+  <a href="mailto:abhiisubedi@gmail.com">Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
+
+### About me
+
+I work at the intersection of business, technology, and customer experience. My background started in software engineering, and my current focus is technical program delivery across e-commerce, MarTech, data, automation, and digital platforms.
+
+I enjoy turning complex cross-functional work into clear requirements, priorities, workflows, testing plans, and measurable outcomes.
+
+### Current focus
+
+- Technical program delivery across B2B and B2C e-commerce platforms
+- Stakeholder alignment, requirements, Jira backlogs, UAT, launch support, and process improvement
+- MarTech, analytics, automation, ERP/EDI workflows, and system integrations
+
+### Core skills
+
+`IT Project & Program Management` `E-Commerce` `Stakeholder Management` `Data Analysis` `Technical Project Leadership`
+
+### Tools & technologies
+
+`React` `JavaScript` `TypeScript` `Python` `PHP` `SQL` `Adobe Commerce` `Salesforce` `HubSpot` `WordPress` `GA4` `GTM` `Power BI` `Jira` `Git` `Docker` `AWS` `Cloudflare`
+
+---
+
+<p align="center">
+  <a href="https://abhikumarsubedi.com">abhikumarsubedi.com</a>
+</p>
